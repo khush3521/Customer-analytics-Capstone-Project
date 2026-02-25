@@ -123,10 +123,10 @@ customer-analytics-dashboard/
 ## 📷 Dashboard Preview
 
 ### 📌 Customer Performance Dashboard
-![Page1](dashboards/page1.png)
+[![Page1](dashboards/page1.png)](https://github.com/khush3521/customer-analytics-Capstone-Project-/blob/main/Page1_overview.png)
 
 ### 📌 Customer Insights & Segmentation
-![Page2](dashboards/page2.png)
+[![Page2](dashboards/page2.png)](https://github.com/khush3521/customer-analytics-Capstone-Project-/blob/main/Page2_segmentation.png)
 
 ---
 
